@@ -1,2 +1,3 @@
-# wordpress-starter-theme
-Wordpress Starter Theme
+# WordPress Starter Theme
+
+Yes again another WordPress Starter Theme
